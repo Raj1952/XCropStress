@@ -124,7 +124,7 @@ If you use this work, please cite:
 @article{jagtap2025xcropstress,
   title={XCropStress: A Controlled Simulation Study for Explainable Multi-Class Crop Stress Detection Using SHAP Feature Attribution on Sentinel-2 Spectral Indices},
   author={Jagtap, Rajvardhan Ajitrao and Lavhate, Sarang Santosh},
-  year={2025},
+  year={2026},
   institution={Rajarambapu Institute of Technology}
 }
 ```
